@@ -40,14 +40,39 @@
 | Bedrijf | Periode | Type |
 | :--------|:--------| :--------- |
 | **Delhaize (Sint-Lievens-Houtem)**|2010|Vakantiewerk: winkelbediende|
-| **Inex (Bavegem)**|2011|Vakantiewerk: helpen in het magazijn (nachtwerk)|
-| **Inex (Bavegem)**|2012|Vakantiewerk: Labo|
+| **Inex (Bavegem)**|2011|Vakantiewerk: magazijn (nachtwerk)|
+| **Inex (Bavegem)**|2012|Vakantiewerk: labo|
 
 
 ##Kennis webtechnologieën
 
+*HTML
+*HTML5
+*CSS
+*Javascript
+*JQuery
+*XML
 
 ##Softwarekennis
 
+###Programmeertalen
+
+*Java
+*MySQL
+
+###software paketten
+*Office
+	*Access
+	*Powerpoint
+	*Excel
+	*Word
+	
+*Grafische
+	*Adobe photoshop
+	*Adobe Illustrator
+	*Adobe Premiere
+	*Adobe After Effects
+	*Adobe Audition
+	*Adobe Indesign
 
 ##Contactinformatie
