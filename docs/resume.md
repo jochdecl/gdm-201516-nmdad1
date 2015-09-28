@@ -35,11 +35,13 @@
 |**Engels**| goed | goed |
 |**Frans** | voldoende | voldoende|
 
-
-
-
-
 ##Werkervaring
+
+| Bedrijf | Periode | Type |
+| :--------|:--------| :--------- |
+| **Delhaize (Sint-Lievens-Houtem)**|2010|Vakantiewerk: winkelbediende|
+| **Inex (Bavegem)**|2011|Vakantiewerk: helpen in het magazijn (nachtwerk)|
+| **Inex (Bavegem)**|2012|Vakantiewerk: Labo|
 
 
 ##Kennis webtechnologieën
