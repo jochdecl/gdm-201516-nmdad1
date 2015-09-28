@@ -10,8 +10,6 @@ Auteurs
 -------
 **Jochen De Clercq**
 
-**GitHub Account:** https://github.com/jochdecl
-
-**Bitbucket Account:** https://bitbucket.org/jochdecl/
-
-**Email:** jochen.declercq@student.arteveldehs.be
+**GitHub Account:** https://github.com/mattsegh1  
+**Bitbucket Account:** https://bitbucket.org/mattsegh1/  
+**Email:** matthias.seghers1@student.arteveldehs.be
