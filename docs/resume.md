@@ -5,7 +5,7 @@ ___
 ##Biografie
 ___
 
-![jochen](http://i.imgur.com/4TjCCK7.jpg) "profielfoto")
+![jochen](http://i.imgur.com/4TjCCK7.jpg "profielfoto")
 
 **Naam:** Jochen De Clercq
 
