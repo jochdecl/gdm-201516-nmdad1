@@ -57,22 +57,23 @@
 
 ###Programmeertalen
 
-*Java
-*MySQL
+* Java
+* MySQL
 
 ###software paketten
-*Office
-	*Access
-	*Powerpoint
-	*Excel
-	*Word
+
+* Office
+	* Access
+	* Powerpoint
+	* Excel
+	* Word
 	
-*Grafische
-	*Adobe photoshop
-	*Adobe Illustrator
-	*Adobe Premiere
-	*Adobe After Effects
-	*Adobe Audition
-	*Adobe Indesign
+* Grafische
+	* Adobe photoshop
+	* Adobe Illustrator
+	* Adobe Premiere
+	* Adobe After Effects
+	* Adobe Audition
+	* Adobe Indesign
 
 ##Contactinformatie
