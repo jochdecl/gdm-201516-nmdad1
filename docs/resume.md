@@ -77,3 +77,5 @@
 	* Adobe Indesign
 
 ##Contactinformatie
+
+U kunt mij altijd bereiken via [email](mailto:jochen.declercq@student.arteveldehs.be)
