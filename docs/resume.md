@@ -78,4 +78,4 @@
 
 ##Contactinformatie
 
-U kunt mij altijd bereiken via [e-mail](mailto:jochen.declercq@student.arteveldehs.be).
+U kunt mij altijd bereiken via [e-mail](mailto:jochen.declercq@student.arteveldehs.be)
