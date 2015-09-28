@@ -1,4 +1,4 @@
-![logo](http://i.imgur.com/8aegyFr.png)Resume
+![Imgur](http://i.imgur.com/liuJm0e.png)
 #Résumé
 
 
