@@ -11,5 +11,7 @@ Auteurs
 **Jochen De Clercq**
 
 **GitHub Account:** https://github.com/jochdecl
+
 **Bitbucket Account:** https://bitbucket.org/jochdecl/
+
 **Email:** jochen.declercq@student.arteveldehs.be
