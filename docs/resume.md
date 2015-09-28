@@ -1,9 +1,9 @@
 #Resumé
----------------------------------------------------
+
 
 
 ##Biografie
----------------------------------------------------
+
 
 ![jochen](http://i.imgur.com/4TjCCK7.jpg "profielfoto")
 
@@ -16,8 +16,8 @@
 **Geboorteplaats:** Aalst
 
 ##Portfolio
----------------------------------------------------
-###studies
+
+###Studies
 
 | Onderwijs | Richting | Instelling  | Periode |
 | :--------|:--------| :--------- |-------:|
@@ -27,18 +27,25 @@
 | **Hoger Onderwijs**  | Bachelor in Toegepaste Informatica |  Hogent, Aalst  | 2010-2013, niet voltooid|
 | **Hoger Onderwijs**  | Bachelor Grafische en Digitale Media - ProDuce |  Hogent, Aalst  | Huidige opleiding|
 
+###Talen
+
+| Taal | Lezen | Schrijven |
+| :--------|:--------| :--------- |
+|**Nederlands**| Zeer goed | Zeer goed|
+|**Engels**| goed | goed |
+|**Frans** | voldoende | voldoende|
+
 
 
 
 
 ##Werkervaring
----------------------------------------------------
+
 
 ##Kennis webtechnologieën
----------------------------------------------------
+
 
 ##Softwarekennis
----------------------------------------------------
+
 
 ##Contactinformatie
----------------------------------------------------
