@@ -1,4 +1,4 @@
-![Imgur](http://i.imgur.com/liuJm0e.png)
+![Imgur](http://i.imgur.com/4ryvBXS.png)
 ----------------------------------------
 
 ##Biografie
