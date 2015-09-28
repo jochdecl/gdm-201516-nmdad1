@@ -46,12 +46,12 @@
 
 ##Kennis webtechnologieën
 
-*HTML
-*HTML5
-*CSS
-*Javascript
-*JQuery
-*XML
+* HTML
+* HTML5
+* CSS
+* Javascript
+* JQuery
+* XML
 
 ##Softwarekennis
 
@@ -78,4 +78,4 @@
 
 ##Contactinformatie
 
-U kunt mij altijd bereiken via [e-mail](mailto:jochen.declercq@student.arteveldehs.be)
+U kunt mij altijd bereiken via [e-mail](mailto:jochen.declercq@student.arteveldehs.be).
