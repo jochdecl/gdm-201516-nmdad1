@@ -19,11 +19,9 @@
 ---------------------------------------------------
 ###studies
 
-| Item      |    Value | Qty  |
-| :-------- | --------:| :--: |
-| Computer  | 1600 USD |  5   |
-| Phone     |   12 USD |  12  |
-| Pipe      |    1 USD | 234  |
+| Onderwijs | Richting | Instelling  | Periode |
+| :--------:|:--------:| :---------: |:-------:|
+| **lager onderwijs**  | _n.v.t._ |  Gemeentelijke basisschool Vlierzele  | 1998-2004|
 
 
 
