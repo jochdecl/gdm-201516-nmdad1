@@ -1,7 +1,5 @@
 ![Imgur](http://i.imgur.com/liuJm0e.png)
-#Résumé
-
-
+----------------------------------------
 
 ##Biografie
 
