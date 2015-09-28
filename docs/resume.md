@@ -7,10 +7,10 @@
 
 ![jochen](http://i.imgur.com/4TjCCK7.jpg "profielfoto")
 
-**Naam:** Jochen De Clercq 
-**Geslacht:** man 
-**Geboortejaar:** 28 Februari 1992  
-**Geboorteplaats:** Aalst
+**Naam:** Jochen De Clercq  
+**Geslacht:** man  
+**Geboortejaar:** 28 Februari 1992   
+**Geboorteplaats:** Aalst  
 
 ##Portfolio
 
